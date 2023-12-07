@@ -2,11 +2,10 @@ package tracing
 
 import (
 	"github.com/gogo/protobuf/proto"
-	"github.com/lesismal/arpc"
-	"github.com/lesismal/arpc/extension/middleware/coder"
 	"github.com/opentracing/basictracer-go"
 	"github.com/opentracing/basictracer-go/wire"
-	opentracing "github.com/opentracing/opentracing-go"
+	"github.com/sllt/arpc"
+	"github.com/sllt/arpc/extension/middleware/coder"
 )
 
 const (

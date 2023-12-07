@@ -6,8 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/lesismal/arpc"
-	"github.com/xtaci/kcp-go"
+	"github.com/sllt/arpc"
 	"golang.org/x/crypto/pbkdf2"
 )
 

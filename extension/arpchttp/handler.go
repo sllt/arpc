@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lesismal/arpc"
-	"github.com/lesismal/arpc/codec"
+	"github.com/sllt/arpc"
+	"github.com/sllt/arpc/codec"
 )
 
 type Conn struct {

@@ -3,8 +3,8 @@ package router
 import (
 	"time"
 
-	"github.com/lesismal/arpc"
-	"github.com/lesismal/arpc/log"
+	"github.com/sllt/arpc"
+	"github.com/sllt/arpc/log"
 )
 
 // Logger returns the logger middleware.

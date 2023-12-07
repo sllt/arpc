@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/lesismal/arpc"
+	"github.com/sllt/arpc"
 )
 
 func main() {

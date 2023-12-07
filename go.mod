@@ -1,3 +1,3 @@
-module github.com/lesismal/arpc
+module github.com/sllt/arpc
 
 go 1.16

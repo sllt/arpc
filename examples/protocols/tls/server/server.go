@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"log"
 
-	"github.com/lesismal/arpc"
+	"github.com/sllt/arpc"
 )
 
 var rsaCertPEM = []byte(`-----BEGIN CERTIFICATE-----

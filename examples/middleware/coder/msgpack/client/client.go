@@ -6,8 +6,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/lesismal/arpc"
-	"github.com/lesismal/arpc/extension/middleware/coder/msgpack"
+	"github.com/sllt/arpc"
+	"github.com/sllt/arpc/extension/middleware/coder/msgpack"
 )
 
 func main() {

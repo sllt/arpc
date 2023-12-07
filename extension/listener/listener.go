@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/lesismal/arpc/log"
+	"github.com/sllt/arpc/log"
 )
 
 type event struct {

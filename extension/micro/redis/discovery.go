@@ -7,10 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-redis/redis/v8"
-	"github.com/lesismal/arpc/extension/micro"
-	"github.com/lesismal/arpc/log"
-	"github.com/lesismal/arpc/util"
+	"github.com/sllt/arpc/extension/micro"
+	"github.com/sllt/arpc/log"
+	"github.com/sllt/arpc/util"
 )
 
 // Discovery .

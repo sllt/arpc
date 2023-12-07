@@ -4,16 +4,15 @@ import (
 	"context"
 	"time"
 
-	"github.com/lesismal/arpc/log"
-	"github.com/lesismal/arpc/util"
-	"go.etcd.io/etcd/client/v3"
+	"github.com/sllt/arpc/log"
+	"github.com/sllt/arpc/util"
 	"go.etcd.io/etcd/client/v3/concurrency"
 )
 
 // RegisterMutexPrefix .
 const RegisterMutexPrefix = "_arpc_micro_reg_mux_pfx"
 
-//Register .
+// Register .
 type Register struct {
 	key         string
 	value       string

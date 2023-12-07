@@ -3,9 +3,9 @@ package main
 import (
 	"time"
 
-	"github.com/lesismal/arpc"
-	"github.com/lesismal/arpc/extension/middleware/router"
-	"github.com/lesismal/arpc/log"
+	"github.com/sllt/arpc"
+	"github.com/sllt/arpc/extension/middleware/router"
+	"github.com/sllt/arpc/log"
 )
 
 func main() {

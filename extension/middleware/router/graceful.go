@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lesismal/arpc"
+	"github.com/sllt/arpc"
 )
 
 // ErrShutdown .

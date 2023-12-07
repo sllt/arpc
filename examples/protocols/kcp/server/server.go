@@ -4,8 +4,7 @@ import (
 	"crypto/sha1"
 	"log"
 
-	"github.com/lesismal/arpc"
-	"github.com/xtaci/kcp-go"
+	"github.com/sllt/arpc"
 	"golang.org/x/crypto/pbkdf2"
 )
 

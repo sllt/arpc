@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lesismal/arpc"
+	"github.com/sllt/arpc"
 )
 
 var mux = sync.RWMutex{}

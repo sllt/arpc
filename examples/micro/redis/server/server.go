@@ -7,10 +7,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/lesismal/arpc/extension/micro/redis"
+	"github.com/sllt/arpc/extension/micro/redis"
 
-	"github.com/lesismal/arpc"
-	"github.com/lesismal/arpc/log"
+	"github.com/sllt/arpc"
+	"github.com/sllt/arpc/log"
 )
 
 func main() {

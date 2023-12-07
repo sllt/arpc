@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/lesismal/arpc/extension/micro"
-	"github.com/lesismal/arpc/log"
-	"github.com/lesismal/arpc/util"
+	"github.com/sllt/arpc/extension/micro"
+	"github.com/sllt/arpc/log"
+	"github.com/sllt/arpc/util"
 	clientv3 "go.etcd.io/etcd/client/v3"
 )
 

@@ -4,10 +4,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/lesismal/arpc/extension/micro/redis"
+	"github.com/sllt/arpc/extension/micro/redis"
 
-	"github.com/lesismal/arpc/extension/micro"
-	"github.com/lesismal/arpc/log"
+	"github.com/sllt/arpc/extension/micro"
+	"github.com/sllt/arpc/log"
 )
 
 func dialer(addr string) (net.Conn, error) {

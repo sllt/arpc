@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lesismal/arpc"
-	"github.com/lesismal/arpc/extension/middleware/coder/tracing"
 	opentracing "github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/log"
+	"github.com/sllt/arpc"
+	"github.com/sllt/arpc/extension/middleware/coder/tracing"
 )
 
 func main() {

@@ -11,9 +11,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/lesismal/arpc/codec"
-	"github.com/lesismal/arpc/log"
-	"github.com/lesismal/arpc/util"
+	"github.com/sllt/arpc/codec"
+	"github.com/sllt/arpc/log"
+	"github.com/sllt/arpc/util"
 )
 
 // Server represents an arpc Server.

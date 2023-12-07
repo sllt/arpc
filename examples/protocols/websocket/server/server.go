@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lesismal/arpc"
-	"github.com/lesismal/arpc/extension/protocol/websocket"
+	"github.com/sllt/arpc"
+	"github.com/sllt/arpc/extension/protocol/websocket"
 )
 
 func main() {

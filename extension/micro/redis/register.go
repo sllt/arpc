@@ -6,11 +6,11 @@ import (
 	"time"
 
 	redis "github.com/go-redis/redis/v8"
-	"github.com/lesismal/arpc/log"
-	"github.com/lesismal/arpc/util"
+	"github.com/sllt/arpc/log"
+	"github.com/sllt/arpc/util"
 )
 
-//Register .
+// Register .
 type Register struct {
 	serviceNamespace string
 	serviceName      string

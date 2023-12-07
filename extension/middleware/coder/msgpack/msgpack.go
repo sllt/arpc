@@ -1,7 +1,7 @@
 package msgpack
 
 import (
-	"github.com/lesismal/arpc"
+	"github.com/sllt/arpc"
 	"github.com/vmihailenco/msgpack"
 )
 

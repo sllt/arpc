@@ -1,8 +1,8 @@
 package coder
 
 import (
-	"github.com/lesismal/arpc"
-	"github.com/lesismal/arpc/util"
+	"github.com/sllt/arpc"
+	"github.com/sllt/arpc/util"
 )
 
 // Appender .
